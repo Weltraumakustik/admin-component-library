@@ -286,7 +286,7 @@ $sw-button-transition: all 0.15s ease-out;
   }
 
   &.sw-button--danger {
-     background: $color-crimson-900;
+     background: $color-crimson-100;
      color: $color-white;
      line-height: 36px;
      border: 0 none;
